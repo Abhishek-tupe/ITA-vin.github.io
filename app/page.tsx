@@ -77,24 +77,6 @@ const menuSections = [
         image: `${BASE_PATH}/red-wine.png`,
       },
       {
-        name: 'Brunello di Montalcino',
-        description: 'Sangiovese Grosso, Tuscany · glass',
-        price: '19',
-        image: `${BASE_PATH}/red-wine.png`,
-      },
-      {
-        name: 'Tenuta San Guido',
-        description: 'Bolgheri blend, Tuscany · glass',
-        price: '30',
-        image: `${BASE_PATH}/red-wine.png`,
-      },
-      {
-        name: 'Sassicaia 50 Year',
-        description: 'A collector’s pour, Tuscany · glass',
-        price: '50',
-        image: `${BASE_PATH}/red-wine.png`,
-      },
-      {
         name: 'Franciacorta Brut',
         description: 'Lombardy · traditional method',
         price: '18',
