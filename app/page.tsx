@@ -216,7 +216,7 @@ export default function Page() {
 
         <div className="mx-auto flex max-w-7xl items-center gap-3 px-6 pb-5 text-[10px] uppercase tracking-[0.24em] text-[#8d887f] lg:px-10">
           <span className="h-px w-8 bg-[#b98f72]" />
-          Via della Rosa, New York
+          Central Cannought , Chh Sambhajinagar
         </div>
       </section>
 
@@ -423,7 +423,7 @@ export default function Page() {
               <p>
                 18 Via della Rosa
                 <br />
-                New York, NY 10013
+                Chh Sambhajinagar , 431001
               </p>
             </div>
 
